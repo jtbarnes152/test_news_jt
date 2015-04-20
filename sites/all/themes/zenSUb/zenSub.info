@@ -1,0 +1,10 @@
+name = Zen Subtheme
+description = This is a sub-theme of zen, made by JT Barnes for news.com
+core = 7.x
+base theme = zen
+
+regions[header] = Header
+regions[navigation] = Navigation
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content

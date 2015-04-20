@@ -1,0 +1,54 @@
+/* Centers the header for the website */
+h1
+{
+   text-align: center;
+   color: #006600;
+}
+
+/* Changes all of the h2's to red. */
+h2
+{
+   color: #ff0000;
+}
+
+/* My attempt at removing the acquia ad... */
+.warning, .messages--warning, h2.element-invisible, .element-invisible
+{
+   width: 0px;
+   height: 0px;
+   font-size: 0%;
+   background-color: #fff;
+   backround-image: ;
+}
+
+/* In this section I would like to add a light blue to the sidebars. */
+#block-views-newsnewest-block, #block-views-newslist-block
+{
+   background-color: #99FFFF;
+   text-align: center;
+}
+
+/* In this section I will change the header bgcolor to light blue. */
+#header
+{
+   background-color: #D8D8D8;
+   color: #006600;
+}
+
+/* This will change the text color of all the bolded words on my main page */
+.header__site-link
+{
+   color: #006600;
+}
+
+/* This will change the navigation bar color to purple */
+#navigation
+{
+   background-color: #6666FF;
+}
+
+/* This section will change the content sections background color */
+#content
+{
+   background-color: #FFFFCC;
+}
